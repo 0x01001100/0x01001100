@@ -18,13 +18,15 @@ dang...... Why did you wanted to see this? lel
 
 *The Stats I do Not Care of:*
 
-[![Stats to Not Care](https://github-readme-stats.vercel.app/api?username=0x01001100&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- The Styles: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=0x01001100&show_icons=true&theme=dark"/> </p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0x01001100&&theme=dark" alt="L" /> </p>
+
+
+<p> <img align="rand" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x01001100&show_icons=true&locale=en&layout=compact&theme=dark" alt="0x01001100"/> </p> 
+
+> Eventually, someday, private projects will be added...
+
+![](https://github.com/0x01001100/0x01001100/blob/main/img/bonfire.gif?raw=true)
 
 *Remember... Always Praise the Sun!*
-<!--   -->
-![](https://github.com/0x01001100/0x01001100/blob/main/img/bonfire.gif?raw=true)
-<!--   -->
-
