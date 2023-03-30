@@ -6,7 +6,7 @@
 dang...... Why did you wanted to see this? lel
 -->
 
-*...Hope you find whatever you are looking for*
+*...I Hope you find whatever you are looking for.*
 
 
 <!--   -->
