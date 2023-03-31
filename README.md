@@ -16,7 +16,7 @@ dang...... Why did you wanted to see this? lel
 <!--   -->
 
 
-*The Stats I do Not Care of:*
+*Stats to Not Care of:*
 
 <p> <img align="rand" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x01001100&show_icons=true&locale=en&layout=compact&theme=dark" alt="0x01001100"/> </p> 
 
@@ -25,7 +25,7 @@ dang...... Why did you wanted to see this? lel
 <p><img align="n" src="https://github-readme-streak-stats.herokuapp.com/?user=0x01001100&&theme=dark" alt="L" /> </p>
 
 
-> Eventually, someday, private projects will be added...
+> Someday, eventually... private & external projects will be added. 
 
 
 ![](https://github.com/0x01001100/0x01001100/blob/main/img/bonfire.gif?raw=true)
