@@ -1,4 +1,6 @@
-![](https://github.com/0x01001100/0x01001100/blob/main/img/GLook.gif?raw=true)
+<!--
+![](https://github.com/0x01001100/0x01001100/blob/main/img/GLook.gif?raw=true) 
+-->
 
 
 
