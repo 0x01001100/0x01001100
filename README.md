@@ -19,7 +19,7 @@ dang...... Why did you wanted to see this? lel  >  Contact via Discord:
 *...I Hope you find whatever you are looking for.*
 
 
-![](https://komarev.com/ghpvc/?username=0x01001100&base=0&color=green&style=for-the-badge)
+
 
 <!--   -->
 
@@ -45,3 +45,6 @@ dang...... Why did you wanted to see this? lel  >  Contact via Discord:
 ![](https://github.com/0x01001100/0x01001100/blob/main/img/bonfire.gif?raw=true)
 
 *Remember... Always Praise the Sun!*
+
+![](https://komarev.com/ghpvc/?username=0x01001100&base=0&color=yellowgreen&style=flat&label=Internet+Wanderers+: )
+
