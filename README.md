@@ -19,6 +19,8 @@ dang...... Why did you wanted to see this? lel  >  Contact via Discord:
 *...I Hope you find whatever you are looking for.*
 
 
+![](https://komarev.com/ghpvc/?username=0x01001100&base=0&color=green&style=for-the-badge)
+
 <!--   -->
 
 <!--  THERE'S NOTHING TO SEE HERE.  -->
