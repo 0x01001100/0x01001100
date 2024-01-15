@@ -10,9 +10,7 @@
   - ¿Is there a reason for you to be here?
 
 <!-- 
-dang...... Why did you wanted to see this? lel  >  Contact via Discord:
-
-... or, Better; Mail:       closkw@proton.me
+dang...... Why did you wanted to see this? lel  >  Contact via Discord: @zoidb
 
 -->
 
