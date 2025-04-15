@@ -46,3 +46,6 @@ dang...... Why did you wanted to see this? lel  >  Contact via Discord: @zoidb
 
 ![](https://komarev.com/ghpvc/?username=0x01001100&base=0&color=yellowgreen&style=flat&label=Internet+Wanderers+: )
 
+<a href="https://www.abuseipdb.com/user/198567" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/198567.svg" alt="AbuseIPDB Contributor Badge" style="width: 264px;">
+</a>
